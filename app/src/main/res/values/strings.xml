@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Inspirasi Jajan</string>
+    <string name="top_bar">30 Inspirasi jajan tradisional yang berbeda untuk setiap hari!</string>
+
+    <string name="kue1">Klepon</string>
+    <string name="description1">Klepon berbentuk bulat seperti onde-onde, terbuat dari tepung ketan yang digulung menjadi bola-bola kecil, diisi dengan gula merah lalu  dibaluti dengan parutan kelapa.</string>
+
+    <string name="kue2">Onde-Onde</string>
+    <string name="description2">Onde-onde adalah makanan tradisional yang sangat populer di Indonesia yang berbentuk bulat dengan sejumput wijen putih di atasnya. Terbuat dari beras ketan dan tepung yang diisi kacang hijau kemudian digoreng.</string>
+
+    <string name="kue3">Lemper</string>
+    <string name="description3">Hidangan nasi ketan tradisional yang biasanya diisi dengan ayam suwir atau giling. Dibungkus dengan daun pisang, rasa dan aromanya semakin nikmat.</string>
+
+    <string name="kue4">Dadar Gulung</string>
+    <string name="description4"> Dadar gulung diisi dengan parutan kelapa yang dimasak dengan gula dengan rasa yang manis dan asin.</string>
+
+    <string name="kue5">Nagasari</string>
+    <string name="description5">Tepung beras dan santan merupakan bahan utama pembuatan nagasari. Isi pisang dan penggunaan daun pisang untuk pembungkus membuatnya sangat menarik.</string>
+
+    <string name="kue6">Kue Cucur</string>
+    <string name="description6">Kue cucur memiliki warna merah bata, rasa manis yang menarik. Jajanan ini terbuat dari campuran gula aren dan tepung yang digoreng.</string>
+
+    <string name="kue7">Cenil</string>
+    <string name="description7">Cenil terbuat dari tepung kanji dan menggunakan parutan kelapa dan gula untuk penyajiannya. Bisa juga disajikan dengan gula merah cair atau dipadukan dengan beras ketan hitam.</string>
+
+    <string name="kue8">Kue Talam</string>
+    <string name="description8">Kue Talam terbuat dari tiga bahan dasar yaitu tepung sorgum, tepung beras dan pandan. Ciri khas kue talam luar biasa dari baki kue berwarna biru dan putih.</string>
+
+    <string name="kue9">Lupis</string>
+    <string name="description9">Lupis berbentuk segitiga, namun karena terlalu sulit untuk dibungkus, akhirnya dibuat panjang, bulat, dan memanjang. Terbuat dari beras ketan yang dimakan dengan parutan kelapa dan gula merah cair.</string>
+
+    <string name="kue10">Bikang</string>
+    <string name="description10">Jajanan tradisional ini biasanya berwarna pink, hijau, putih, dan coklat, berbentuk bulat dan tampak mengembang di bagian tengahnya.</string>
+
+    <string name="kue11">Kue Bugis Ketan</string>
+    <string name="description11">Kue Bugis adalah kue tradisional Sulawesi yang terbuat dari parutan kelapa yang dipadukan dengan gula merah dan bahan khusus lainnya.</string>
+
+    <string name="kue12">Serabi</string>
+    <string name="description12">Serabi adalah jjanan pasar tradisional berupa kue dadar yang mirip dengan cucur, terbuat dari tepung beras, santan, dan parutan kelapa.</string>
+
+    <string name="kue13">Mendut</string>
+    <string name="description13">Mendut terbuat dari tepung beras dengan gula merah. Di beberapa tempat, mendut dibungkus dengan daun pisang dan ditambah santan. Teksturnya yang kenyal dan manis.</string>
+
+    <string name="kue14">Wajik</string>
+    <string name="description14">Kue wajik dikukus dengan campuran santan dan gula merah. Rasanya yang legit sangat menggugah selera.</string>
+
+    <string name="kue15">Kue Bugis Mandi</string>
+    <string name="description15">Disebut bugis mandi karena ciri khas kue ini disajikan dengan siraman atau kuah santan kental. Selain parutan kelapa, isian kacang hijau juga bisa menjadi pilihan untuk membuat kue bugis mandi yang enak dan beraneka warna.</string>
+
+    <string name="kue16">Kue "Ku"</string>
+    <string name="description16">Kue “Ku”, adalah sebuah kata dalam dialek Hokkian Cina, jika diterjemahkan ke dalam bahasa Indonesia berarti Kura-Kura. Jadi jajanan tradisional ini sebenarnya kue kura-kura, karena bentuknya yang mirip kura-kura yang berisikan kacang hijau.</string>
+
+    <string name="kue17">Kue Putu Ayu</string>
+    <string name="description17">Kue putu ayu dicetak dalam cetakan berbentuk bunga. Penampilan dan warnanya yang cantik menjadi dasar dari namanya yaitu putu ayu. Kebanyakan putu ayu dibuat dari campuran tepung beras dan tepung beras ketan.</string>
+
+    <string name="kue18">Kue Putu</string>
+    <string name="description18">Kue putu adalah kue yang terbuat dari gula aren dan kelapa parut, tepung beras mentah. Kue ini dikukus dengan memasukkannya ke dalam tabung bambu yang dikompresi ringan.</string>
+
+    <string name="kue19">Lumpia</string>
+    <string name="description19">Makanan ini berupa lembaran-lembaran tipis tepung yang dijadikan kulit kemudian dijadikan pembungkus isian yang bisa berupa rebung, telur, lalapan, daging atau seafood dengan saus atau cabai.</string>
+
+    <string name="kue20">Kue Putri Noong</string>
+    <string name="description20">Kue ini dinamakan mata roda, karena pisang yang berada di tengah berbentuk mata dan bentuk kue secara keseluruhan seperti roda. </string>
+
+    <string name="kue21">Getuk Lindri</string>
+    <string name="description21">Dibuat dengan cara menggiling halus singkong dengan gula pasir, ditaburi pewarna makanan dan vanila, lalu potong-potong dengan panjang sekitar 5 cm dan lebar 4 cm.</string>
+
+    <string name="kue22">Kue Lapis Legit</string>
+    <string name="description22">Kue ini terbuat dari tepung terigu dan bubuk telur dan memiliki 3 lapisan yang setiap lapisannya memiliki cara memasak yang berbeda.</string>
+
+    <string name="kue23">Kue Mangkok</string>
+    <string name="description23">Kue mangkok adalah sejenis manisan yang terbuat dari tepung beras kukus, terigu, dan tapai. Bentuknya seperti mangkok dan mekar di ujungnya.</string>
+
+    <string name="kue24">Semar Mendem</string>
+    <string name="description24">Semar mendem adalah sejenis bubur tanpa daun. Sebagai pembalutnya, bisa menggunakan telur dadar atau pancake yang terbuat dari campuran telur dan tepung yang dipanaskan dengan cepat agar menjadi keras isinya biasanya ayam.</string>
+
+    <string name="kue25">Kue Lapis</string>
+    <string name="description25">Disebut kue lapis karena biasanya kue ini terdiri dari dua lapis warna. Kue ini bisa ditemukan di banyak tempat di Indonesia. Kue ini terbuat dari tepung beras, kanji, santan, gula, garam dan pewarna makanan.</string>
+
+    <string name="kue26">Kue Lumpur</string>
+    <string name="description26">Kue lumpur ini tidak benar-benar terbuat dari lumpur, Namun kue ini terbuat dari bahan-bahan seperti santan, tepung yang dicampur kentang, telur, vanili dan ditaburi kismis.</string>
+
+    <string name="kue27">Misro</string>
+    <string name="description27">Misro merupakan jajanan pasar tradisional yang terbuat dari parutan singkong dengan saus oncom dan gula. Bahan utamanya adalah tepung tapioka dan gula merah.</string>
+
+    <string name="kue28">Jentik Manis</string>
+    <string name="description28">Jajanan pasar tradisional ini menggunakan bahan dasar campuran santan rebus dan sagu mutiara. Disebut jentik manis, kue ini biasanya dikemas dalam plastik dan ditutup dengan cara dilipat.</string>
+
+    <string name="kue29">Kue Putri Mandi</string>
+    <string name="description29">Kue ini mirip dengan kue koci, hanya saja penyajiannya berbeda. Putri mandi sering disajikan dengan sedikit santan, membuat kue lebih segar dan nikmat.</string>
+
+    <string name="kue30">Apem</string>
+    <string name="description30">Kue apem biasanya terbuat dari tepung beras dan santan. Berbentuk seperti mangkok kecil dan tipis, apem ternyata juga banyak ditemukan di wilayah Asia Tenggara, namun apem di negara lain masih berbeda dengan yang dijual di Indonesia.</string>
+</resources>
